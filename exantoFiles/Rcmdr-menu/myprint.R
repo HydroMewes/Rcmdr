@@ -1,0 +1,1 @@
+myprint = function() doItAndPrint(paste("hallo"))

@@ -1,0 +1,4 @@
+myGumbelQuantilesFunction <- function () 
+{
+    distributionQuantiles("gumbel")
+}
