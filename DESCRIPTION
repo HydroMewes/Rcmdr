@@ -1,0 +1,9 @@
+Package: RcmdR_Exanto
+Title: Exanto RcmdR extension
+Version: 0.1
+Authors@R: person("Benjamin", "Mewes", email = "benjamin.Mewes@hydrology.ruhr-uni-bochum.de",
+                  role = c("aut", "cre"))
+Description: Presents Exanto menu as JAVA applet)
+Depends: R (>= 3.1.0)
+License: MITP 2.0
+LazyData: true
