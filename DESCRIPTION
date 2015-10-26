@@ -1,4 +1,4 @@
-Package: RcmdR_Exanto
+Package: RcmdR
 Title: Exanto RcmdR extension
 Version: 0.1
 Authors@R: person("Benjamin", "Mewes", email = "benjamin.Mewes@hydrology.ruhr-uni-bochum.de",
