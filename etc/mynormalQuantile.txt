@@ -1,0 +1,4 @@
+mynormalQuantiles <- function () 
+{
+    mydistributionQuantiles("normal")
+}
